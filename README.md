@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://choidslab.github.io/)](http://choidslab.github.io/)
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choidslab)](https://github.com/anuraghazra/github-readme-stats)                                                     
+                                                                
 <!--
 **choidslab/choidslab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
