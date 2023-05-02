@@ -4,7 +4,7 @@
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=http://choidslab.github.io/)](http://choidslab.github.io/)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=choidslab)](https://github.com/anuraghazra/github-readme-stats)            
+[![Anurag's github stats](https://github-readme-stats-g2bjqas19-choidslab.vercel.app/api?username=choidslab)](https://github.com/anuraghazra/github-readme-stats)            
 
 </div>
                                                                 
