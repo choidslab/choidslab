@@ -6,6 +6,9 @@
 
 [![Anurag's github stats](https://github-readme-stats-qi8qhfc5g-choidslab.vercel.app/api?username=choidslab)](https://github.com/anuraghazra/github-readme-stats)            
 
+[![Top Langs](https://github-readme-stats-qi8qhfc5g-choidslab.vercel.app/api/top-langs/?username=choidslab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 </div>
                                                                 
 <!--
