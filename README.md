@@ -1,4 +1,4 @@
-### Hi, I'm TimChoi 👋
+### Security Researcher ☕️💻
 
 <div align = left>
 
