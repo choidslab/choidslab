@@ -1,4 +1,4 @@
-### Hi, I'm DS.Choi 👋
+### Hi, I'm TimChoi 👋
 
 <div align = left>
 
